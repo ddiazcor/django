@@ -62,7 +62,7 @@ DATABASES = {
     'default': {
         'ENGINE': 'django.db.backends.mysql',
         'NAME': 'demo',
-        'USER': 'orange',
+        'USER': 'root',
         'PASSWORD': 'orange2015',
         'HOST': 'act.satranet.com',
         'PORT': '3306',
