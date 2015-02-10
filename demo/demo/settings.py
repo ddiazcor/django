@@ -1,4 +1,4 @@
-"""
+""" ests es una correcion desde pycharn
 Django settings for demo project.
 
 For more information on this file, see
