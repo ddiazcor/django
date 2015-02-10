@@ -66,7 +66,6 @@ DATABASES = {
         'PASSWORD': 'orange2015',
         'HOST': 'act.satranet.com',
         'PORT': '3306',
-
     }
 }
 
