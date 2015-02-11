@@ -6,7 +6,7 @@ class cliente(models.Model):
     apellidos = models.CharField(max_length=50)
     status    = models.BooleanField(default=True)
     def __unicode__(self):
-        nombreCompleto = "%s %s - de noche"%(self.nombre,self.apellidos)
+        nombreCompleto = "%s %s- de tarde"%(self.nombre,self.apellidos)
         return nombreCompleto
 
 class producto(models.Model):
